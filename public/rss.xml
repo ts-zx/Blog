@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的小站</title>
+    <description>记录、思考、分享</description>
+    <link>https://my-blog.pages.dev</link>
+    <atom:link href="https://my-blog.pages.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 13 Sep 2026 15:20:39 GMT</lastBuildDate>
+    
+    <item>
+      <title>Hello World · 博客开张</title>
+      <description>这是我新博客的第一篇文章，聊聊为什么开始写博客。</description>
+      <link>https://my-blog.pages.dev/posts/hello-world</link>
+      <guid isPermaLink="false">hello-world</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <author>Your Name</author>
+      <category>随笔</category>
+      <category>Meta</category>
+    </item>
+  </channel>
+</rss>
